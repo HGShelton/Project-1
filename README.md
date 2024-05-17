@@ -1,8 +1,8 @@
 # Project-1
 
 ## Research Questions
-* Do rates of crime decrease within a one-mile radius of a public library or park?
-* If there are cases where crime rates decrease, in which public area and borough?
+* Does proximity to public areas affect where violent crimes are committed?
+* If there are cases where crime rates are higher, in which public area and borough?
 * In which public areas are rape, robbery, and murder/manslaughter more likely to occur?
 
 Having gathered this data, we conducted t-tests to determine whether there was a significant difference in the mean amount of crime between the two samples. Significance was determined at a 95% confidence level, meaning any results with a p-value of less than 0.05 were considered significant. Both two-sided and one-sided t-tests were calculated, with most results indicating a lower mean average of crime within a mile radius of public institutions.
